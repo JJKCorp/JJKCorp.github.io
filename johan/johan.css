@@ -1,5 +1,10 @@
 h1{
     text-align: center;
-    color: pink;
-    background-color: black;
+    color: black;
+
+}
+
+.stromecek{
+    width:auto; 
+    height:auto;
 }
