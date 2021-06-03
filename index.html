@@ -3,28 +3,63 @@
     <head>
         <title>JJKCorp</title>
         <link rel="stylesheet" href="style.css">  
+       <style>
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+       </style>
+
     </head>
+    
     <body background="backgroundhl.jpg">
+        <ul>
+            <li><a class="active" href="./jara/jara.html">Jara</a></li>
+            <li><a href="./johan/johan.html">Johan</a></li>
+            <li><a href="./krys/krys.html">Krystof</a></li>
+           
+          </ul>
         <h1>Kundolap</h1>
         <p>Tato stránka je vytvořena z důvodu dvoření se dámám.</p>
         <p>Pokud toto čtete tak jste jedna z těchto dam.</p>
         <p>Nebo naše milovaná paní učitelka.</p>
         
-        <button onclick="window.location.href='./krys/krys.html'" class="button button1" style="width: 100px; height: 40px; font-size: 16px; position:relative; left:960px; top:-150px;" type="button">Kryštof
+        <button onclick="window.location.href='./krys/krys.html'" class="button button1" style="width: 100px; height: 40px; font-size: 16px; position:relative; left:960px; top:-150px; color: purple;" type="button">Kryštof
         
         </button> 
         
-        <button class="button button2" style="width: 100px; height: 40px; font-size: 16px; position:relative; left:855px; top:-110px; "type="button">
-            <a href="./johan/johan.html">Johan
-            </a>
+        <button onclick="window.location.href='./johan/johan.html'"class="button button2" style="width: 100px; height: 40px; font-size: 16px; position:relative; left:855px; top:-110px; "type="button">Johan
+            
         
         </button>
 
-        <button class="button button3" style="width: 100px; height: 40px; font-size: 16px; position:relative; left:750px; top:-70px; "type="button">
-            <a href="./jara/jara.html">Jara
-            </a>
+        <button onclick="window.location.href='./jara/jara.html'" class="button button3" style="width: 100px; height: 40px; font-size: 16px; position:relative; left:750px; top:-70px; "type="button">Jára
+            
 
         </button>
+        
+
+       
 
         <script src="index.js"></script>
     </body>
