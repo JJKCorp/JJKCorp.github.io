@@ -1,6 +1,5 @@
 h1{
     text-align: center;
-<<<<<<< Updated upstream
     color: black;
 
 }
@@ -8,9 +7,12 @@ h1{
 .stromecek{
     width:auto; 
     height:auto;
-=======
     color: pink;
     background-color: black;
     font-size: xx-large;
->>>>>>> Stashed changes
+}
+.button{
+    width:200px;
+    height:200px;
+    background:url(ig.png)
 }
