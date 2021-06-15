@@ -11,9 +11,13 @@ h1{
     background-color: black;
     font-size: xx-large;
 }
-.button{
+.ig{
     width:45px;
     height:45px;
-    background:url(ig.jpg)
+    
 }
-.button2
+.fb{
+    width: 45px;
+    height: 45px;
+  
+}
