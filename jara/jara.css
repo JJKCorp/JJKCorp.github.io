@@ -103,3 +103,23 @@ color:white;
  {
   color: white;
 }
+.img-prvni
+{
+	width: 500px;
+	position:relative; right:300px; top:-350x;
+	float: right;
+}
+.insta
+{
+	position:relative; right:200px; top:-350x;
+	float: right;
+
+}
+.fackbook{
+	position:relative; right:300px; top:-350x;
+	float: right;
+}
+.hover:hover
+{
+	
+}
