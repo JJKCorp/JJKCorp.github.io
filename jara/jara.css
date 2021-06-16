@@ -6,7 +6,7 @@
 
 body{ 
     position: middle;
-background-color: yellowgreen;
+background-color: black;
 }
 h1{
 
@@ -24,10 +24,14 @@ height: auto;
 h2
 {
     color:white;
+	text-align: center;
+	
 }
 p
 {
 color:white;
+text-align: center;
+float: middle;
 
 }
 
@@ -105,21 +109,20 @@ color:white;
 }
 .img-prvni
 {
-	width: 500px;
-	position:relative; right:300px; top:-350x;
+	width: 300px;
+	
 	float: right;
 }
 .insta
 {
-	position:relative; right:200px; top:-350x;
-	float: right;
+	position:relative; right:200px; top:130px;
+	
 
 }
 .fackbook{
-	position:relative; right:300px; top:-350x;
-	float: right;
-}
-.hover:hover
-{
+	position:relative; left:650px; top: 70px;
 	
 }
+.img-dva{
+	width: 300px;
+	float: left;}

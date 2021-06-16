@@ -96,4 +96,10 @@ p1{
  {
   color: white;
 }
+.foto
+{
+	width: 300px;
+	position:relative; right: 500px;
+	float: right;
+}
 
