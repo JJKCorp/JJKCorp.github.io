@@ -126,3 +126,7 @@ float: middle;
 .img-dva{
 	width: 300px;
 	float: left;}
+.jaj{
+	text-align: left;
+	position: relative; left: 8px;
+}
