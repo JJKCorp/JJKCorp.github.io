@@ -96,11 +96,11 @@ li{
   color: white;
 }
  .twitter{
-     position:relative ; right: -200px; top:-100px;
+     position:relative ; right: 500px; top:25px;
      float:right;
  }
  .facebook{
-     position:relative ; right: -236px; top:-35px;
+     position:relative ; right: -50px; top:25px;
      float: right;
  }
  h1{
@@ -113,6 +113,6 @@ li{
      color: white;
  }
 .img3{
-    position:relative ; width: 420px; top: -25px; right:500px;
+    position:relative ; width: 420px; top: 25px; right:500px;
     float: right;
 }
